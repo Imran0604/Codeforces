@@ -1,6 +1,8 @@
 #codeforces problem 2019A solution
 //MD. Rasheduzzaman Imran
 // Alhamdulillah for everything
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
